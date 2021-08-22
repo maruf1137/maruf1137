@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf1137&label=Profile%20views&color=0e75b6&style=flat" alt="maruf1137" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maruf1137" alt="maruf1137" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/maruf1137" target="blank"><img src="https://img.shields.io/twitter/follow/maruf1137?logo=twitter&style=for-the-badge" alt="maruf1137" /></a> </p>
 
 - 🔭 I’m currently working on [fitness](https://fitness-v1.netlify.app/)
@@ -27,4 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf1137&show_icons=true&locale=en&layout=compact" alt="maruf1137" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruf1137&show_icons=true&locale=en" alt="maruf1137" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maruf1137&" alt="maruf1137" /></p>
+
 
