@@ -9,7 +9,7 @@ Skills: HTML / CSS / JAVASCRIPT / SASS / REACT
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with React developers 
-- 📫 How to reach me: https://www.facebook.com/maruf9753 
+- 📫 How to reach me: https://www.facebook.com/maruf1137
 - 📫 How to reach me: https://www.linkedin.com/in/maruf1137
 - 📫 How to reach me: https://twitter.com/maruf1137
 - 📫 How to reach me: https://www.fiverr.com/maruf_khann
