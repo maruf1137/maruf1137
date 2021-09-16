@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Maruf Khan
 #### I am a frontend developer
-[frontend developer work at Fiverr](https://github.com/maruf1137/maruf1137/blob/main/Grey%20and%20Yellow%20Geometric%20Law%20Consultant%20Linkedin%20Banner.png?raw=true)
+(https://github.com/maruf1137/maruf1137/blob/main/Grey%20and%20Yellow%20Geometric%20Law%20Consultant%20Linkedin%20Banner.png?raw=true)
 
 hello, and welcome to my github profile, i am frontend developer in bangladesh...
 
