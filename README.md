@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, I am Maruf Khan
+### Hi there 👋, I am Maruf Khan
 #### I am a frontend developer
 ![I am a frontend developer](https://github.com/maruf1137/maruf1137/blob/main/Grey%20and%20Yellow%20Geometric%20Law%20Consultant%20Linkedin%20Banner.png?raw=true)
 
