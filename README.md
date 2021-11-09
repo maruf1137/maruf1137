@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Maruf Khan
 #### I am a frontend developer
-![I am a frontend developer](https://i.ibb.co/khqDRbT/Professional-Business-Linked-In-Banner.png)
+![I am a frontend developer](https://github.com/maruf1137/maruf1137/blob/main/maruf-cover-photo.jpg?raw=true)
 
 hello and welcome to my github profile....
 
