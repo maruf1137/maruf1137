@@ -1,4 +1,4 @@
-### Hi there 👋, I am Maruf Khan
+### Hi there 👋, I am Maruf Mia
 #### I am a frontend developer
 ![I am a frontend developer](https://github.com/maruf1137/maruf1137/blob/main/Professional%20Business%20LinkedIn%20Banner.png?raw=true)
 
